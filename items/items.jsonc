@@ -1,0 +1,117 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+
+  {
+    "name": "Fist",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "name": "Fist",
+        "img": "images/items/fist_soul_card.png",
+        "codes": "fist"
+      },
+      {
+        "name": "katana",
+        "img": "images/items/katana_soul_card.png",
+        "codes": "Katana"
+      }
+    ]
+  },
+  {
+    "name": "Health",
+    "type": "consumable",
+    "img": "images/items/health_soul_card.png",
+    "codes": "healthfiller"
+  },
+  {
+    "name": "Ammo",
+    "type": "consumable",
+    "img": "images/items/ammo_soul_card.png",
+    "codes": "ammofiller"
+  },
+  {
+    "name": "Boof (Book of Life)",
+    "type": "toggle",
+    "img": "images/items/book_of_life_soul_card.png",
+    "codes": "boof"
+  },
+  {
+    "name": "Elevate Fire",
+    "type": "toggle",
+    "img": "images/items/elevate_soul_card.png",
+    "codes": "elevate_fire"
+  },
+  {
+    "name": "Elevate Discard",
+    "type": "toggle",
+    "img": "images/items/elevate.png",
+    "codes": "elevate_discard"
+  },
+  {
+    "name": "Fireball Fire",
+    "type": "toggle",
+    "img": "images/items/fireball_soul_card.png",
+    "codes": "fireball_fire"
+  },
+  {
+    "name": "Fireball Discard",
+    "type": "toggle",
+    "img": "images/items/fireball.png",
+    "codes": "fireball_discard"
+  },
+  {
+    "name": "Purify Fire",
+    "type": "toggle",
+    "img": "images/items/purify_soul_card.png",
+    "codes": "purify_fire"
+  },
+  {
+    "name": "Purify Discard",
+    "type": "toggle",
+    "img": "images/items/purify.png",
+    "codes": "purify_discard"
+  },
+  {
+    "name": "Godspeed Fire",
+    "type": "toggle",
+    "img": "images/items/godspeed_soul_card.png",
+    "codes": "godspeed_fire"
+  },
+  {
+    "name": "Godspeed Discard",
+    "type": "toggle",
+    "img": "images/items/godspeed.png",
+    "codes": "godspeed_discard"
+  },
+  {
+    "name": "Stomp Fire",
+    "type": "toggle",
+    "img": "images/items/Stomp_soul_card.png",
+    "codes": "stomp_fire"
+  },
+  {
+    "name": "Stomp Discard",
+    "type": "toggle",
+    "img": "images/items/Stomp.png",
+    "codes": "stomp_discard"
+  },
+  {
+    "name": "Dominion Fire",
+    "type": "toggle",
+    "img": "images/items/dominion_soul_card.png",
+    "codes": "dominion_fire"
+  },
+  {
+    "name": "Dominion Discard",
+    "type": "toggle",
+    "img": "images/items/dominion.png",
+    "codes": "dominion_discard"
+  },
+  {
+    "name": "PLACEHOLDERITEM",
+    "type": "toggle",
+    "img": "images/items/placeholder.png",
+    "codes": "placeholder"
+  }
+]

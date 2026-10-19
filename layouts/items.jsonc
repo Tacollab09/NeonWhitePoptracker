@@ -1,0 +1,46 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "item_size": 5,
+            "h_alignment": "left",
+            "rows": [
+              [
+                "ammofiller",
+                "katana",
+                "elevate_fire",
+                "purify_fire",
+                "godspeed_fire",
+                "stomp_fire",
+                "fireball_fire",
+                "dominion_fire"
+              ],
+              [
+                "healthfiller",
+                "boof",
+                "elevate_discard",
+                "purify_discard",
+                "godspeed_discard",
+                "stomp_discard",
+                "fireball_discard",
+                "dominion_discard"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
