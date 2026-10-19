@@ -14,7 +14,7 @@
   "target_poptracker_version": "0.35.1",
   "variants": {
     "standard": {
-      "display_name": "Map Tracker",
+      "display_name": "Item Tracker",
       "flags": [
         // enables AP autotracking interface - remove if not needed
         "ap"
